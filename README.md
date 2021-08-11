@@ -1,2 +1,2 @@
-# aula_javascript
-Introdução ao JavaScript
+# Curso de HTML e CSS
+Introdução ao JavaScript e Bootstrap
